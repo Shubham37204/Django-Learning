@@ -20,16 +20,6 @@ It demonstrates real-world usage of Django with multiple apps, templates, static
 - CSS
 - SQLite (development database)
 
-## 📁 Project Structure
-learnDjango/
-├── core/
-├── todo/
-├── users/
-├── static/
-├── templates/
-├── manage.py
-
-
 ## ▶️ Run Locally
 git clone https://github.com/Shubham37204/Django.git
 
